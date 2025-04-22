@@ -4,13 +4,13 @@ This project allows users to upload an image and extract text from it using Opti
 # Features:
 Image Upload: Upload images containing text (such as scanned documents, screenshots, or printed text).
 
-# Text Extraction: Uses Tesseract.js to recognize and extract text from the uploaded image in real time.
+Text Extraction: Uses Tesseract.js to recognize and extract text from the uploaded image in real time.
 
-# Progress Bar: Displays the progress of the OCR process, giving users feedback as the image is being processed.
+Progress Bar: Displays the progress of the OCR process, giving users feedback as the image is being processed.
 
-# Download Text: Once the text is extracted, the user can download it as a .txt file with a click of a button.
+Download Text: Once the text is extracted, the user can download it as a .txt file with a click of a button.
 
-# Browser-Side Processing: Everything is processed on the client side, so no server is required. It works entirely within the user's browser.
+Browser-Side Processing: Everything is processed on the client side, so no server is required. It works entirely within the user's browser.
 
 ****How to Use:
 Upload an image by clicking the Choose File button.
